@@ -1,9 +1,7 @@
 import subprocess
 import socket
 
-def display_banner():
-    print("Welcome to A-STAR Tool")
-    print("Auteur : Léon Meizou, Specialiste sur les questions de Cyber Sécurité")
+
 
 def get_ip_info():
     try:
